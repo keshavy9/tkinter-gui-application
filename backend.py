@@ -47,8 +47,3 @@ def update(id,title,author,year,isbn):
 
 
 connect()
-#insert("amey","ketan",2016,123456)
-#print(search(author="ketan"))
-#delete(5)
-#update(4,"the purge","robin williams",2014,244545)
-print(view())
